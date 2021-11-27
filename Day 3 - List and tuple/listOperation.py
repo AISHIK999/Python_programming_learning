@@ -21,7 +21,7 @@ numList.reverse()
 print("The reverse sorted list: \n")
 print(numList)
 
-print("Append a ne4w element at the end:\n")
+print("Append a new element at the end:\n")
 n = input("Enter the element you wish to append:\n")
 numList.append(n)
 
